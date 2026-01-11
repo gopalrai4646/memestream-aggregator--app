@@ -1,0 +1,5 @@
+{
+  "name": "MemeStream Aggregator",
+  "description": "A high-performance real-time meme coin data aggregator that merges multiple DEX sources (DexScreener, Jupiter) with WebSocket-style live updates and advanced filtering.",
+  "requestFramePermissions": []
+}
